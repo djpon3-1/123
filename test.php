@@ -1,5 +1,5 @@
 <?
 
-echo shell_exec("uname -a");
-
+echo test
+  
 ?>
