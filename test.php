@@ -1,5 +1,1 @@
-<?
-
-echo test
-  
-?>
+<h1>pony</h1>
